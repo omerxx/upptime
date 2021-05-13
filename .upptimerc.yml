@@ -13,8 +13,14 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  - name: RC
+  - name: RC Dashboard
     url: $DASHBOARD_RC
+  - name: KN Dashboard
+    url: $DASHBOARD_KN
+  - name: GD Dashboard
+    url: $DASHBOARD_GD
+  - name: CT Dashboard
+    url: $DASHBOARD_CT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
