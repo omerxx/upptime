@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/api.cloudvisor.io",
     "slug": "api",
     "status": "up",
-    "uptime": "1.80%",
-    "uptimeDay": "1.80%",
-    "uptimeWeek": "1.80%",
-    "uptimeMonth": "1.80%",
-    "uptimeYear": "1.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 325,
     "timeDay": 325,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
-    "dailyMinutesDown": {
-      "2021-05-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RC",
