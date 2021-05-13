@@ -3,12 +3,14 @@ owner: omerxx
 repo: upptime # The name of this repository
 
 sites:
-  - name: Zesty.co
+  - name: Website
     url: https://zesty.co
-  - name: Zesty Dashboard
+  - name: Dashboard
     url: https://app.zesty.co
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: API
+    url: https://api.cloudvisor.io
+  - name: RC
+    url: $DASHBOARD_RC
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
