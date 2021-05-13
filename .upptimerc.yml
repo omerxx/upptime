@@ -22,6 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://app.zesty.co/assets/logo/zesty-logo.svg
+  favicon: https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png
   name: Zesty Monitor
   introTitle: ""
   introMessage: ""
