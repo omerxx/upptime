@@ -10,6 +10,9 @@ sites:
     url: https://app.zesty.co
   - name: API
     url: https://api.cloudvisor.io
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: RC
     url: $DASHBOARD_RC
 
