@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Website
     url: https://zesty.co
+    icon: https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png
   - name: Dashboard
     url: https://app.zesty.co
   - name: API
