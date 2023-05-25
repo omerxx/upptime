@@ -24,19 +24,19 @@
     "url": "https://app.zesty.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.zesty.co.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 81,
-    "timeWeek": 324,
-    "timeMonth": 331,
+    "timeDay": 254,
+    "timeWeek": 337,
+    "timeMonth": 334,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-05-25": 0
+      "2023-05-25": 12
     }
   },
   {
