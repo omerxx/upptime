@@ -4,18 +4,19 @@
     "url": "https://zesty.co",
     "icon": "https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 452,
+    "time": 453,
     "timeDay": 228,
     "timeWeek": 520,
     "timeMonth": 512,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2022-11-03": 48
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://app.zesty.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.zesty.co.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 363,
     "timeMonth": 319,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "API",
