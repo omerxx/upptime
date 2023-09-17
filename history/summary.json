@@ -4,7 +4,7 @@
     "url": "https://zesty.co",
     "icon": "https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 435,
     "timeYear": 459,
     "dailyMinutesDown": {
+      "2023-09-17": 0,
       "2023-07-26": 17,
       "2022-11-03": 48
     }
