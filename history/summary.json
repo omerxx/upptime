@@ -4,18 +4,20 @@
     "url": "https://zesty.co",
     "icon": "https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 731,
-    "timeWeek": 600,
-    "timeMonth": 586,
+    "timeDay": 549,
+    "timeWeek": 571,
+    "timeMonth": 579,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "Dashboard",
