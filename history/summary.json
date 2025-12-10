@@ -4,7 +4,7 @@
     "url": "https://zesty.co",
     "icon": "https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 436,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2025-12-10": 0,
       "2025-10-15": 91,
       "2025-09-13": 18,
       "2025-02-21": 21
@@ -30,12 +31,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 117,
     "timeWeek": 341,
-    "timeMonth": 329,
+    "timeMonth": 338,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-11-10": 22
